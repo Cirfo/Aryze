@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42327c39c7d0f4b02b717e9bd27a94a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Heart2D.asset
+  uploadId: 106774

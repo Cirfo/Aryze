@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf08330276d4b4dd5ad53a826cd7a9cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/PyramidTri.asset
+  uploadId: 106774

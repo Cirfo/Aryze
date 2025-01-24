@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2341dea8fec8c4334bee2b71dee3da21
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Sphere.asset
+  uploadId: 106774

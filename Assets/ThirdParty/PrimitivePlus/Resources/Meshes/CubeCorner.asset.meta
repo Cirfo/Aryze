@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b71e7e35b0384912a028736dc84ce78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CubeCorner.asset
+  uploadId: 106774

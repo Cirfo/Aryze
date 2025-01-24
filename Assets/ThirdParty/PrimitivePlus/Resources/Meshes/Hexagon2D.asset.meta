@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3bae3656ed4649ef8b66af0cb9cf3b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Hexagon2D.asset
+  uploadId: 106774

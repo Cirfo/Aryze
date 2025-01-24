@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb85ee45ccfaa428badb3dd1de02633b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Torus.asset
+  uploadId: 106774

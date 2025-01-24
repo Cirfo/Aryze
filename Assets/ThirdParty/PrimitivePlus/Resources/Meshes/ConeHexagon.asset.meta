@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cce41387554d348a18b32048c3ca0d9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/ConeHexagon.asset
+  uploadId: 106774

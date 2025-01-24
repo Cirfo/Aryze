@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8e17a1dca6ae437fa693019e5e765dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CubeHollowThin.asset
+  uploadId: 106774

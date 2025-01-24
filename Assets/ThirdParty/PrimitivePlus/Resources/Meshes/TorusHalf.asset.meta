@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44ac4a7bf4d394afaa88fa9220494e0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/TorusHalf.asset
+  uploadId: 106774

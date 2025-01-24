@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ecd64c96ac9a4e64948fb0fb7fbac52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/PyramidCorner.asset
+  uploadId: 106774

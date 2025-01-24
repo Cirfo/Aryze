@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2bb82fe8abf046aaae221a3be73fadf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Plane.asset
+  uploadId: 106774

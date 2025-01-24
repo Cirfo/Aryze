@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 720ae17bf4ad94298a43bbae8397530f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/ConePentagon.asset
+  uploadId: 106774

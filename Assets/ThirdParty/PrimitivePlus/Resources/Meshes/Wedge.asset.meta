@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb6a91434b82e40b9be190d89ae227aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Wedge.asset
+  uploadId: 106774

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff780ad263d7a4e66a7574d5a01c460c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/DiamondThick.asset
+  uploadId: 106774

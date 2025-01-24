@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a2a17f57f4fe42a19580358775b2aa4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Circle2D.asset
+  uploadId: 106774

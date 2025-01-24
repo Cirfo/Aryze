@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 365ee92bbce574057a51fd809d58217f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Star2D.asset
+  uploadId: 106774

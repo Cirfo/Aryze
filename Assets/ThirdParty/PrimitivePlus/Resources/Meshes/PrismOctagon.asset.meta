@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1af23e11ba017433097b3de5dbc3dd9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/PrismOctagon.asset
+  uploadId: 106774

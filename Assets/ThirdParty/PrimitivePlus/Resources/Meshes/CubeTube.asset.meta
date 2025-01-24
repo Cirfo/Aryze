@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1db42a12d3384ec298b8e64d3d5f667
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CubeTube.asset
+  uploadId: 106774

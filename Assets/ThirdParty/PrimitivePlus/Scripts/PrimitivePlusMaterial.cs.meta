@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89d18bf1872354d8a84e751f5c2cccda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Scripts/PrimitivePlusMaterial.cs
+  uploadId: 106774

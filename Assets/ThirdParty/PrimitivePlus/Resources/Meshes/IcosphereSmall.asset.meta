@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f63658e7c8574ed587fa33d6ddded97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/IcosphereSmall.asset
+  uploadId: 106774

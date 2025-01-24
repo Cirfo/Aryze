@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1919ddd58f5a74511a2e75642d5d091d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CubeEdgeIn.asset
+  uploadId: 106774

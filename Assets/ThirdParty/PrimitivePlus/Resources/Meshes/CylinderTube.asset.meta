@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc089023da14b4107a1959883e74b3fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CylinderTube.asset
+  uploadId: 106774

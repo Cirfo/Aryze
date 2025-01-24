@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0aeb6b79f08d40219e91d6d7f90401f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/Rhombus2D.asset
+  uploadId: 106774

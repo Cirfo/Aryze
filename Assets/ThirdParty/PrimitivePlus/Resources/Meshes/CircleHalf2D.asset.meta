@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 538d8fb4ef7b340f49cc60bbd098410c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/CircleHalf2D.asset
+  uploadId: 106774

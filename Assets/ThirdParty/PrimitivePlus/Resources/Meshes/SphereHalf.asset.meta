@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2088ca135f6c4b6d8e5d76760b863bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25542
+  packageName: Primitive Plus
+  packageVersion: 1.2.1
+  assetPath: Assets/PrimitivePlus/Resources/Meshes/SphereHalf.asset
+  uploadId: 106774
